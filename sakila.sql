@@ -720,13 +720,3 @@ FROM
     sakila.payment p USING (rental_id)
 WHERE
     rental_date BETWEEN '2005-05-24' AND '2005-05-29';
-
-
-
-
-
-
-
-
-
-
